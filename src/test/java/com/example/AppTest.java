@@ -8,8 +8,8 @@ public class AppTest {
 
     @Test
     public void testeFahrenheitParaCelsius() {
-        assertEquals(0,
-                App.fahrenheitParaCelsius(32),
+        assertEquals(100,
+                App.fahrenheitParaCelsius(212),
                 0.1);
     }
 
