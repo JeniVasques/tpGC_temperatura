@@ -2,7 +2,7 @@ package com.example;
 
 public class App {
 
-    public static double fahrenheitToCelsius(double fahrenheit) {
+    public static double fahrenheitParaCelsius(double fahrenheit) {
     return 0;
     }
 
